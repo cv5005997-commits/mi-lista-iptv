@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mis canales",Canal 1
-URL_DEL_CANAL_1
-#EXTINF:-1 group-title="Mis canales",Canal 2
-URL_DEL_CANAL_2
-#EXTINF:-1 group-title="Mis canales",Canal 3
-URL_DEL_CANAL_3
-#EXTINF:-1 group-title="Mis canales",Canal 4
-URL_DEL_CANAL_4
-#EXTINF:-1 group-title="Mis canales",Canal 5
-URL_DEL_CANAL_5
-#EXTINF:-1 group-title="Mis canales",Canal 6
-URL_DEL_CANAL_6
-#EXTINF:-1 group-title="Mis canales",Canal 7
-URL_DEL_CANAL_7
-#EXTINF:-1 group-title="Mis canales",Canal 8
-URL_DEL_CANAL_8
-#EXTINF:-1 group-title="Mis canales",Canal 9
-URL_DEL_CANAL_9
+#EXTINF:-1,cinecanalHD
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+#EXTINF:-1,fox sports argentina
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1,space ar
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1,tyc sports
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1,tyc sports2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,espn premium
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1,fox sports2
+http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1,star channel
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1,telefe buenos aires
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
