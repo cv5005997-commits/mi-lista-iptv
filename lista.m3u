@@ -17,3 +17,7 @@ http://158.172.155.130:8000/play/a09x/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1,telefe buenos aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1,El Ocho TV
+https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
+#EXTINF:-1,Canal 11 Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
